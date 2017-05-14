@@ -1,7 +1,7 @@
 
 # MYELOFON.1 PCB
 
-![RENDER](https://github.com/sudachen/proto1/pcb/myelofon_p1.png "PCB render")
+![](https://github.com/sudachen/myelofon/raw/master/proto1/pcb/myelofon_p1.png "PCB render")
 
-![SCHEME](https://github.com/sudachen/proto1/pcb/myelofon_p1_schem.pdf "PCB schematics")
+![](https://github.com/sudachen/myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png "PCB schematic")
 
