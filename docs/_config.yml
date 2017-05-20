@@ -1,0 +1,13 @@
+
+theme: jekyll-theme-slate
+title: Myelofon
+github:
+  repository_url: https://github.com/sudachen/Myelofon
+gems:
+  - jekyll-feed
+  - jekyll-theme-slate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
