@@ -11,4 +11,4 @@ I intend to develop Myelofon as a seria of prototypes. The first one is an analo
 
 Current Schematics and Render. In the [repo](https://github.com/sudachen/Myelofon/proto1) you can find all required files to build one.
 <a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
-<img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/>
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a>
