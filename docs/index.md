@@ -9,6 +9,6 @@ Myelofon hardware and software is open and licensed under GPL. It means anyone c
 # Prototype 1
 I intend to develop Myelofon as a seria of prototypes. The first one is an analog sensor connecting to uC dev-board (_DK_). The DK like NRF52-DK, STM32F3DISCOVERY or even Arduino Due should do A/D convertaion and process digitalized EEG signals to extract frequency spectrum. Then this spectrum and its dynamics are analyzed on PC or tablet by related software.
 
-Current Schematics and Render. In the [repo](https://github.com/sudachen/Myelafon/proto1) you can find all required files to build one.
-<img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/>
+Current Schematics and Render. In the [repo](https://github.com/sudachen/Myelofon/proto1) you can find all required files to build one.
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
 <img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/>
