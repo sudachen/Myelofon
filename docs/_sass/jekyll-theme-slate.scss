@@ -332,7 +332,7 @@ Full-Width Styles
   text-shadow: inherit;
 }
 
-#project_tagline a:hover, #project_tagline a:active {
+#project_tagline a:link, #project_tagline a:visited {
   text-decoration: underline #7cc6ff;
 }
 
