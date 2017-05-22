@@ -332,6 +332,10 @@ Full-Width Styles
   text-shadow: inherit;
 }
 
+#project_tagline a:hover, #project_tagline a:active {
+  text-decoration: underline #7cc6ff;
+}
+
 #downloads {
   position: absolute;
   width: 210px;
