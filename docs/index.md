@@ -11,8 +11,9 @@ I intend to develop Myelofon as a series of prototypes. The first one is an anal
 
 Here are current schematics and PCB render. In the [repo](https://github.com/sudachen/Myelofon/tree/master/proto1) you can find all required files to build one.
 
-<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
-<!--a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a-->
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="480px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a>
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="200px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
+
 
 # Prototype 2
 On the way.
