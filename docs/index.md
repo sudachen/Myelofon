@@ -9,10 +9,11 @@ Myelofon hardware and software is open and licensed under GPL. It means anyone c
 # Prototype 1
 I intend to develop Myelofon as a series of prototypes. The first one is an analog sensor connecting to uC dev-board (_DK_). The DK like NRF52-DK, STM32F3DISCOVERY, or even Arduino Due performs A/D convertion and processes digitalized EEG signals to extract frequency spectrum. Then this spectrum and its dynamics are analyzed on PC or tablet by related software.
 
-Here are current schematics and PCB render. In the [repo](https://github.com/sudachen/Myelofon/proto1) you can find all required files to build one.
+Here are current schematics and PCB render. In the [repo](https://github.com/sudachen/Myelofon/tree/master/proto1) you can find all required files to build one.
 
-<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
-<!--a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="300px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a-->
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="480px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a>
+<a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="200px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
+
 
 # Prototype 2
 On the way.
