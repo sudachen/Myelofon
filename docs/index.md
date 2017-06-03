@@ -14,7 +14,7 @@ Here are current schematics and PCB render. In the [repo](https://github.com/sud
 <a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"><img width="480px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_schem.png"/></a>
 <a href="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"><img width="200px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1.png"/></a>
 
-The device looks like simple hadset  with connected NRF52-DK board.
+The device looks like simple EEG headset with connected NRF52-DK board.
 
 <img width="680px" src="https://github.com/sudachen/Myelofon/raw/master/proto1/pcb/myelofon_p1_dev.jpg"/>
 
