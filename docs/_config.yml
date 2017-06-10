@@ -2,6 +2,7 @@
 theme: jekyll-theme-slate
 title: Myelofon
 google_analytics: UA-99577378-1
+repository: sudachen/Myelofon
 github:
   repository_url: https://github.com/sudachen/Myelofon
 gems:
